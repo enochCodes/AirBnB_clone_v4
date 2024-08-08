@@ -149,6 +149,10 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+Setup: Configured the project environment by installing necessary dependencies including flasgger, flask_cors, and handling potential issues like jsonschema and pathlib2.
+2. Dynamic Content and Interactivity
+HTML & CSS: Enhanced the static HTML templates to accommodate dynamic content.
+JavaScript (JQuery): Implemented several scripts to handle DOM manipulation and AJAX requests.
 
 ## Bugs
 No known bugs at this time. 
